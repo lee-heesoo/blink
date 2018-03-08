@@ -1,5 +1,4 @@
 # blink
-/* 
 
 * 'blink.ino' is the sketch of the program 'blink'.
 * 'Blink.cpp' is the functional source using class.
@@ -21,7 +20,7 @@ Blink.cpp and Blink.h are recyclable.
 * Serial.println(content)
  : A function that sends the contents to the connected PC and outputs the contents on the serial monitor.
  
-*/
+
 
 
 
