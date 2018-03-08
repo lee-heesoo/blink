@@ -1,9 +1,9 @@
 # blink
 /* 
 
-'blink.ino' is the sketch of the program 'blink'.
-'Blink.cpp' is the functional source using class.
-'Blink.h' is the header file of 'Blink.cpp'.
+* 'blink.ino' is the sketch of the program 'blink'.
+* 'Blink.cpp' is the functional source using class.
+* 'Blink.h' is the header file of 'Blink.cpp'.
 
 Blink.cpp and Blink.h are recyclable.
 
