@@ -7,7 +7,7 @@ class Blink
 {
   public:
     Blink(int pin);
-    void On(int t);
+    void on(int t);
     void off(int t);
   private:
     int _pin;
