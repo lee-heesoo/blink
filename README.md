@@ -11,9 +11,9 @@ Blink.cpp and Blink.h are recyclable.
 #include “Arduino.h”
 * enable to use the Arduino's provided standard functions
 * standard types, predefined constants, header files for functions
+* We have to include "Arduino.h" and "Blink.h" in 'blink.ino' and 'Blink.cpp'.
 
-*** We have to include "Arduino.h" and "Blink.h" in 'blink.ino' and 'Blink.cpp'.
-
+# p.s. 
 * Serial.begin(velocity)
  : A function that opens the serial port and uses the communication at the specified rate.
 
