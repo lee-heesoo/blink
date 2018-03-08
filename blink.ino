@@ -10,6 +10,6 @@ void setup() {
 
 void loop() 
 {
-  blink.On(500);
+  blink.on(500);
   blink.off(300);
 }
