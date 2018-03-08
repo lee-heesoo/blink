@@ -17,7 +17,7 @@ Blink.cpp and Blink.h are recyclable.
 * Serial.begin(velocity)
  : A function that opens the serial port and uses the communication at the specified rate.
 
-* Serial.println(content)
+* Serial.println(contents)
  : A function that sends the contents to the connected PC and outputs the contents on the serial monitor.
  
 
