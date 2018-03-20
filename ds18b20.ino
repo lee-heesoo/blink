@@ -1,8 +1,10 @@
+/*
 const char* host = "api.thingspeak.com";
 String url = "/update?api_key=DWZ923X318S978LL";  
 const int httpPort = 80;
 int interval = 60000;
 float r = 0;
+*/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
